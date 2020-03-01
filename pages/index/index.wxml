@@ -16,3 +16,27 @@
   </view>
 </view>
  -->
+
+<view class="page">
+    
+    <view class="page__bd page__bd_spacing" >
+        <view class="weui-flex" bindtap="">
+            <view class="weui-flex__item"><view class="placeholder">weui</view></view>
+        </view>
+
+        
+    </view>
+</view>
+
+
+
+
+
+<view class="page__bd page__bd_spacing">
+  <view class="weui-footer weui-footer_fixed-bottom footer_under">
+    <view class="weui-footer__links">
+      <navigator url="www.zjprime.cn" class="weui-footer__link">www.zjprime.cn</navigator>
+    </view>
+    <view class="weui-footer__text">Copyright © 2020 zjprime.cn</view>
+  </view>
+</view>

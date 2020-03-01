@@ -1,2 +1,9 @@
 <!--pages/userinfo/userinfo.wxml-->
 <text>pages/userinfo/userinfo.wxml</text>
+
+  <view class="weui-footer weui-footer_fixed-bottom footer_under">
+    <view class="weui-footer__links">
+      <navigator url="www.zjprime.cn" class="weui-footer__link">www.zjprime.cn</navigator>
+    </view>
+    <view class="weui-footer__text">Copyright © 2020 zjprime.cn</view>
+  </view>

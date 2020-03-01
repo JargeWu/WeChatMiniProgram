@@ -9,3 +9,6 @@
   padding: 200rpx 0;
   box-sizing: border-box;
 } 
+.footer_under{
+  padding-bottom: 35px;
+}
